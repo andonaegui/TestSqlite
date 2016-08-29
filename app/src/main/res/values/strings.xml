@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">TestSqlite</string>
     <string name="save_button">Guardar</string>
+    <string name="clear">Limpiar</string>
 </resources>
